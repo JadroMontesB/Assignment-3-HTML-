@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Lato:ital,wght@1,300&family=Oswald:wght@200&display=swap');
+
+/*Text typography*/
+body
+{ 
+  font-family: 'Lato', sans-serif;
+}
+
+/* Page Header */
+header
+{   
+    text-align: center;
+    color: white;
+    background-color: aquamarine;
+}
+
+/* Page Navigation */
+nav.menu a
+{
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    color: darkgoldenrod;
+    margin-right: 25px;
+
+}
+
+
+/* H1 & h2 Edits*/
+h1
+{
+    font-size: 40px;
+}
+
+h2
+{
+    text-align: center;
+    font-weight: 400;
+    width: 300px;
+    border-bottom: 1px solid black;
+    margin: 25px auto;
+}
+
+
+/* Titles Editing */
+.titles
+{   
+    text-align: center;
+    font-size: 20px;
+    width: 15%;
+    margin: 10px auto;
+    background-color: aquamarine;
+    text-shadow: 1px 1px white;
+    padding: 10px;
+}
+
+.titles-top
+{
+    color: black;
+    text-shadow: 1px 1px white;
+    padding: 10px;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+/* Text Editing*/
+.text
+{
+    text-align: center;
+    font-size: 19px;
+    color: darkgoldenrod;
+}
+
+
+/* List Editing*/
+li
+{
+    text-align: left;
+    color:darkgoldenrod;
+    text-shadow: 1px 1px white;
+}
+
+
+/* Top Parts*/
+.service-item
+{
+    width: 30%;
+    height: 350px;
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 30px;
+}
+
+.service-con
+{
+    display: flex;
+}
+
+
+/*Link Editing*/
+a:visited
+{
+    color:darkgoldenrod;
+}
+
+a:hover
+{
+color:blue;
+}
+    
+a:active{
+    font-size: 25px;
+}
+
+
+/*Final Part*/
+footer
+{
+    color: darkgray;
+    text-shadow: 1px 1px aquamarine;
+}
+
+
+
+
+
+
+    
